@@ -97,18 +97,3 @@ Feel free to:
 - Take notes and experiment
 
 ---
-
-## 🔜 Next Steps
-
-Once you're comfortable with the basics, continue your journey with:
-- Object-Oriented Programming (OOP) in Java
-- File handling
-- Exception handling
-- Java Collections Framework
-- Building small projects
-
-Stay curious and keep coding! 💡
-
----
-
-> Made with ❤️ for all Java learners.
