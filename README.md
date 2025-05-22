@@ -16,7 +16,6 @@ Welcome to **Week 1** of our Java learning journey! This repository is dedicated
   - [Day 6: Functions (Methods)](#day-6-functions-methods)
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
 
 ---
 
